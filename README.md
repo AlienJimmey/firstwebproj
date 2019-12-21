@@ -1,6 +1,6 @@
 # first web proj.
 
-One Paragraph of project description goes here
+My first personal project build using HTML and CSS. it's a simple one page site used to display future projects.
 
 ## Getting Started
 
@@ -20,6 +20,7 @@ What things you need to install the software and how to install them
 
 * [vs studio](https://code.visualstudio.com/) - The text editior used
 * [Liver Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - local host server
+* [Chrome](https://www.google.com/chrome/) - the brower used to test.
 
 ## Authors
 * **Fredjino C** - *Initial work* - [AlienJimmey](https://github.com/AlienJimmey)
