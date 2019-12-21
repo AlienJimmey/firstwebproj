@@ -1,25 +1,26 @@
 # first web proj.
 
-One Paragraph of project description goes here
+My first personal project build using HTML and CSS. it's a simple one page site used to display future projects.
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on howto deploy the project on a live system.
-[] download files
-[] open folder in vscode (or prefered text editer)
+* download files
+* open folder in vscode (or prefered text editer)
 
 ### Prerequisites
 
 What things you need to install the software and how to install them
-[] a text editor (ex: vsstudio)
-[] a live server extention
-[] modern web browerser (eg. chrome)
+* a text editor (ex: vs studio)
+* a live server extention
+* modern web browerser (eg. chrome)
 
 
 ## Built With
 
-* [vsstudio](https://code.visualstudio.com/) - The text editior used
+* [vs studio](https://code.visualstudio.com/) - The text editior used
 * [Liver Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - local host server
+* [Chrome](https://www.google.com/chrome/) - the brower used to test.
 
 ## Authors
 * **Fredjino C** - *Initial work* - [AlienJimmey](https://github.com/AlienJimmey)
