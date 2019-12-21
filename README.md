@@ -5,15 +5,15 @@ One Paragraph of project description goes here
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on howto deploy the project on a live system.
-[] download files
-[] open folder in vscode (or prefered text editer)
+* download files
+* open folder in vscode (or prefered text editer)
 
 ### Prerequisites
 
 What things you need to install the software and how to install them
-[] a text editor (ex: vsstudio)
-[] a live server extention
-[] modern web browerser (eg. chrome)
+* a text editor (ex: vsstudio)
+* a live server extention
+* modern web browerser (eg. chrome)
 
 
 ## Built With
