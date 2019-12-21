@@ -11,14 +11,14 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 What things you need to install the software and how to install them
-* a text editor (ex: vsstudio)
+* a text editor (ex: vs studio)
 * a live server extention
 * modern web browerser (eg. chrome)
 
 
 ## Built With
 
-* [vsstudio](https://code.visualstudio.com/) - The text editior used
+* [vs studio](https://code.visualstudio.com/) - The text editior used
 * [Liver Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - local host server
 
 ## Authors
