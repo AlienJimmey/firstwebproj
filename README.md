@@ -30,7 +30,5 @@ What things you need to install the software and how to install them
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## Acknowledgments
-
-* Hat tip to anyone whose code was used
 * Inspiration
 * etc
